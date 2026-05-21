@@ -50,5 +50,8 @@ We welcome contributions from drone pilots, software engineers, and security exp
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## ⚖️ Legal & Regulatory Warning
+**IMPORTANT:** Deployment of this system in Nigeria requires strict adherence to NCAA and ONSA regulations. Before proceeding, you **MUST** read and agree to the [Legal & Regulatory Framework](./LEGAL_FRAMEWORK.md). Contributors are not liable for any misuse, accidents, or law-breaking situations arising from the deployment of this architecture.
+
 ---
 *Empowering Nigerian communities through technology.*
